@@ -1,0 +1,50 @@
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Asistente.exe.config
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Asistente.exe
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Asistente.pdb
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Asistente.xml
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.vbprojAssemblyReference.cache
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.Form1.resources
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.Resources.resources
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.vbproj.GenerateResource.cache
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.exe
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.xml
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.pdb
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\es-CO\Asistente.resources.dll
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\yo\Asistente.resources.dll
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.Form1.es-CO.resources
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.Form1.yo.resources
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\es-CO\Asistente.resources.dll
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\yo\Asistente.resources.dll
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Database1.mdf
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Database1_log.ldf
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.Form2.resources
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Asistente.exe.manifest
+C:\Users\Marco Egea\Desktop\Asistente\bin\Debug\Asistente.application
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.exe.manifest
+C:\Users\Marco Egea\Desktop\Asistente\obj\Debug\Asistente.application
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Database1.mdf
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Database1_log.ldf
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Asistente.exe.config
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Asistente.exe.manifest
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Asistente.application
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Asistente.exe
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Asistente.pdb
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Asistente.xml
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\es-CO\Asistente.resources.dll
+C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\yo\Asistente.resources.dll
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.vbprojAssemblyReference.cache
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.Form1.resources
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.Form2.resources
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.Resources.resources
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.Form1.es-CO.resources
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.Form1.yo.resources
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.vbproj.GenerateResource.cache
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.vbproj.CoreCompileInputs.cache
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\es-CO\Asistente.resources.dll
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\yo\Asistente.resources.dll
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.exe.manifest
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.application
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.exe
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.xml
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.pdb
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Asistente.Form3.resources

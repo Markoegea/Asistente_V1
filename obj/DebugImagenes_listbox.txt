@@ -1,0 +1,16 @@
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\apps.37905.13670972585585116.7f29dc82-c969-4e89-aaf9-7c0e3f52d890.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\thumb-1920-278051.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\thumb-1920-528418.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\LmI4wvE.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\FableAnniversary.ico
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\unnamed.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\Project-Zomboid-B.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\wp3026212.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\906349.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\git.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\kisspng-microsoft-word-microsoft-office-2016-tutorial-comp-word-5ab996497ccbc3.3683902915221120735112.jpg
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\microsoft-excel-2019--v1.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\Powerpoint-logo.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\32260.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\1200px-Visual_Studio_Code_1.35_icon.svg.png
+C:\Users\MarcoEgea\Desktop\Asistente\obj\Debug\Imagenes\figuras_arduino_0.jpg

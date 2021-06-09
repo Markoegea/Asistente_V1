@@ -1,0 +1,6 @@
+Visual Studio 2019.lnk
+Chrome Remote Desktop.lnk
+Camtasia 2019.lnk
+Microsoft Teams.lnk
+Visual Studio Code.lnk
+Microsoft Visual Basic 2010 Express.lnk

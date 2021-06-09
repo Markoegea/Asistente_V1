@@ -1,0 +1,16 @@
+Cuphead.lnk
+Dark Souls - Prepare to Die Edition.lnk
+DARK SOULS II - Scholar of the First Sin.lnk
+Dragon Age Origins - Ultimate Edition.lnk
+Fable Anniversary.lnk
+Dragon Ball Xenoverse 2.lnk
+ProjectZomboid64.exe - Shortcut.lnk
+Stellaris.lnk
+Microsoft Teams.lnk
+git-bash.exe
+Word 2016.lnk
+Excel 2016.lnk
+POWERPNT.EXE
+Camtasia 2019.lnk
+Visual Studio Code.lnk
+Arduino.lnk
