@@ -1,6 +1,1 @@
-C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Imagenes\1572424649_614672_1572453030_noticia_normal.jpg
-C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Imagenes\FableAnniversary.ico
-C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Imagenes\power_girl.png
-C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Imagenes\2079033abc8314be554f9d24f562a199.jpg
-C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Imagenes\Painting_Art_Back_view_Photographer_575380_3840x2400.jpg
-C:\Users\MarcoEgea\Desktop\Asistente\bin\Debug\Imagenes\wallpaper-engine.jpg
+C:\Users\marko\Documents\Asistente\bin\Debug\Imagenes\1366_2000.jpeg

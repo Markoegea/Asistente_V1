@@ -1,6 +1,1 @@
-C:\Users\MarcoEgea\Desktop\Visual Studio 2019.lnk
-C:\Users\MarcoEgea\Desktop\Chrome Remote Desktop.lnk
-C:\Users\MarcoEgea\Desktop\Camtasia 2019.lnk
-C:\Users\MarcoEgea\Desktop\Microsoft Teams.lnk
-C:\Users\MarcoEgea\Desktop\Visual Studio Code.lnk
-C:\Users\MarcoEgea\Desktop\Microsoft Visual Basic 2010 Express.lnk
+C:\Users\marko\Desktop\Games\The Outer Worlds.lnk
